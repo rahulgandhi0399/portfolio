@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'rahul | Developer ', // e.g: 'Name | Developer'
+  title: 'Rahul | Developer ', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: 'rahul gandhi',
+  name: 'Rahul Gandhi',
   subtitle: 'Software engineer and Front-end Developer',
   cta: '',
 };
@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'An IT professional seeking for opportunities as software engineer and  Front-end  Developer having hands of experience on technologies like Web development with react.js,html,cssand javascript and  OOPS concepts . I would love to work in an organization which helps me not only to learn, but enhance my skills and knowledge along with contributing my learning to the grow ',
+  paragraphOne: 'An IT professional seeking for opportunities as software engineer and  Front-end  Developer having hands of experience on technologies like Web development with react.js,html,css and javascript and OOPS concepts. I would love to work in an organization which helps me not only to learn, but enhance my skills and knowledge along with contributing my learning to the grow ',
   paragraphTwo: ' • Languages and frameworks : JavaScript,  HTML, CSS, Bootstrap ,C ,python, Node.js, React.js',
   paragraphThree: '• Other: Linux , OOPS concepts , Git ,Github',
   resume: 'https://drive.google.com/file/d/1ibtRRQbxDYe44fs70aU6HLadnyPQxSxu/view?usp=sharing', // if no resume, the button will not show up
